@@ -1,2 +1,2 @@
-# Dawn-of-the-Others
+# Dawn of the Others
 Apocalyptic RPG
