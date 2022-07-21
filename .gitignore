@@ -1,0 +1,11 @@
+# Ignore binaries
+bin/*
+
+# Ignore some VSCode files
+*.vscode*
+
+# Ignore CMake builds
+Build/*
+
+# Ignore junk
+junk/*
